@@ -1,5 +1,4 @@
 def my_each(array)
-  array.each do |i|
-    puts i
-  end
+  i = 0 
+  while i < array.length 
 end
